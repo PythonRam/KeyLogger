@@ -1,0 +1,9 @@
+G:\C#\KeyLogger\KeyLogger\bin\Debug\Program.cs
+G:\C#\KeyLogger\KeyLogger\obj\Debug\Handler for Key Storkes.csproj.GenerateResource.Cache
+G:\C#\KeyLogger\KeyLogger\obj\Debug\Handler for Key Storkes.csprojResolveAssemblyReference.cache
+G:\C#\KeyLogger\KeyLogger\bin\Debug\System Event Handler(32 bit).exe.config
+G:\C#\KeyLogger\KeyLogger\bin\Debug\System Event Handler(32 bit).exe
+G:\C#\KeyLogger\KeyLogger\bin\Debug\System Event Handler(32 bit).pdb
+G:\C#\KeyLogger\KeyLogger\obj\Debug\SystemEventHandler.Properties.Resources.resources
+G:\C#\KeyLogger\KeyLogger\obj\Debug\System Event Handler(32 bit).exe
+G:\C#\KeyLogger\KeyLogger\obj\Debug\System Event Handler(32 bit).pdb

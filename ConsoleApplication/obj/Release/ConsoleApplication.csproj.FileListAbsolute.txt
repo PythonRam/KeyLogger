@@ -1,0 +1,6 @@
+G:\C#\KeyLogger\ConsoleApplication\bin\Release\ConsoleApplication.exe.config
+G:\C#\KeyLogger\ConsoleApplication\bin\Release\ConsoleApplication.exe
+G:\C#\KeyLogger\ConsoleApplication\bin\Release\ConsoleApplication.pdb
+G:\C#\KeyLogger\ConsoleApplication\obj\Release\ConsoleApplication.csprojResolveAssemblyReference.cache
+G:\C#\KeyLogger\ConsoleApplication\obj\Release\ConsoleApplication.exe
+G:\C#\KeyLogger\ConsoleApplication\obj\Release\ConsoleApplication.pdb
